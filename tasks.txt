@@ -1,0 +1,5 @@
+1) Password generator http://code.activestate.com/recipes/578169-extremely-strong-password-generator/
+    a) Make html form to choose categories of symbols and password length
+    b) generate new strong password
+    c) it can include strong indicator like |strong|weak|etc|
+    
